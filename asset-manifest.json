@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Site-Receitas/static/css/main.91e51fd3.css",
+    "main.js": "/Site-Receitas/static/js/main.dced2c18.js",
+    "static/media/fundo.jpg": "/Site-Receitas/static/media/fundo.4d276f4935a2a54f5cdd.jpg",
+    "index.html": "/Site-Receitas/index.html",
+    "static/media/loader.svg": "/Site-Receitas/static/media/loader.fa0a63c5780ec4e36c8aa3706db53def.svg",
+    "main.91e51fd3.css.map": "/Site-Receitas/static/css/main.91e51fd3.css.map",
+    "main.dced2c18.js.map": "/Site-Receitas/static/js/main.dced2c18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91e51fd3.css",
+    "static/js/main.dced2c18.js"
+  ]
+}
